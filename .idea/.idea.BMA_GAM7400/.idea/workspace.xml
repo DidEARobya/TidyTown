@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81de06a9-6883-4e42-b826-6496136426ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BMA_GAM7400/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BMA_GAM7400/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Beige Bin.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Beige Bin.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Black Bin.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Black Bin.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Glass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Glass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Litter.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Litter.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Player.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Player.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Red Bin.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Red Bin.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Charecters/NPC Models/Npc_Mat1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Charecters/NPC Models/Npc_Mat1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pt_Materials/BrickRed_Colour.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Pt_Materials/BrickRed_Colour.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Bin_Beige/Materials/PublicBin_Beige_BaseMap.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Bin_Beige/Materials/PublicBin_Beige_BaseMap.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Bin_Burgundy/Materials/PublicBin_Burgundy_BaseMap.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Bin_Burgundy/Materials/PublicBin_Burgundy_BaseMap.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Bin_General&amp;Green/Materials/PublicBin_General_BaseMap.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Bin_General&amp;Green/Materials/PublicBin_General_BaseMap.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Bin_General&amp;Green/Materials/PublicBin_Green_BaseMap.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Bin_General&amp;Green/Materials/PublicBin_Green_BaseMap.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Joystick Pack/Examples/Ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tools/Joystick Pack/Examples/Ground.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/BenH/CarParkNew.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/BenH/CarParkNew.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Interactable/Objects/Obstacles/Obstacle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Interactable/Objects/Obstacles/Obstacle.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Player/PlayerScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/PlayerScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Interactable/Objects/Litter/TestLitter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/parkSoundPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nZovbOYRTmlmAR2H1fFMmfBkg8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;HosseinS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Standalone Player.Start Unity">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.47f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath D:\BMA_GAM7400 -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\BMA_GAM7400" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.47f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\BMA_GAM7400 -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\BMA_GAM7400" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81de06a9-6883-4e42-b826-6496136426ac" name="Changes" comment="" />
+      <created>1729190192169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729190192169</updated>
+      <workItem from="1729190194106" duration="7636000" />
+      <workItem from="1729255505444" duration="9625000" />
+      <workItem from="1729345397385" duration="10429000" />
+      <workItem from="1729681663371" duration="1818000" />
+      <workItem from="1729688854682" duration="8009000" />
+      <workItem from="1729772682653" duration="10900000" />
+      <workItem from="1730060763780" duration="12000" />
+      <workItem from="1730061283333" duration="1000" />
+      <workItem from="1730061311854" duration="101000" />
+      <workItem from="1730061429615" duration="12000" />
+      <workItem from="1730061927975" duration="3000" />
+      <workItem from="1730066297587" duration="1273000" />
+      <workItem from="1730396095929" duration="7710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

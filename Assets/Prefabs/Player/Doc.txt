@@ -1,0 +1,2 @@
+A component **Animator** is attached to **Player_rig**. You need to drag this **Animator** into the **PlayerScript** under the **Player Animator** field.
+In the player's **Animator**, currently, only two conditions have been defined: one triggers the **Idle** animation, and the other triggers the **Run** animation.

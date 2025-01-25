@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bins
+  - Garbage
+  - Street Corner
+  - Store Entrance
+  - Store Exit
+  - Parking Space
+  - Traffic Light
+  - Car
+  - Pedestrian Waypoint
+  - Crossing Point
+  - NPC
+  - LitterHolder
+  - Park
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Interactable
+  - Ground
+  - AI_Interactable
+  - Projectile
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

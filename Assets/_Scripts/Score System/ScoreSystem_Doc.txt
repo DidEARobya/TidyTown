@@ -1,0 +1,1 @@
+It’s enough to attach the **Score Manager** script to one of the objects and set the value for each piece of litter.

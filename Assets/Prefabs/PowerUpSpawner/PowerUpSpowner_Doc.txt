@@ -1,0 +1,3 @@
+The PowerUp Spawner object in the Hierarchy is responsible for spawning power-ups. The PowerUp Spawner script is attached to this object. The spawn timer variable controls the spawn rate of the power-ups, and the PowerUps list is where you need to assign the power-up prefabs.
+
+The RaySource value, which holds the coordinates for the raycast source used to detect the spawn location for power-ups, just needs to have the Y value set to 2.

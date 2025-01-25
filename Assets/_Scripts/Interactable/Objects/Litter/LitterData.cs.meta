@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51a4b3852e1707d4d81d373918febc75
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - litterModel: {instanceID: 0}
+  - litterMaterial: {instanceID: 0}
+  - litterSound: {instanceID: 0}
+  - litterEffect: {fileID: 8926484042661614526, guid: 47207cb39daaa814e9479f4f700b8144, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
